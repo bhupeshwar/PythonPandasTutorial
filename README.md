@@ -32,3 +32,27 @@ pandas also contains functionality for time series analysis and analyzing text d
 # Importing data in pandas
 
 <code> import pandas as pd </code>
+
+
+# Data visualization in pandas
+
+![image](https://github.com/user-attachments/assets/55efaf5f-4f9f-41ab-ab44-29a78a71287e)
+
+![image](https://github.com/user-attachments/assets/09f780e4-eea9-4b5b-8bff-5a00cf768b33)
+
+![image](https://github.com/user-attachments/assets/4e0ad8af-42bc-465a-b778-a793d352e338)
+
+
+# Bar plots in pandas
+
+![image](https://github.com/user-attachments/assets/e787dbf3-74d6-4f23-abfb-286602b3b9b9)
+
+
+# Box plots in pandas
+
+![image](https://github.com/user-attachments/assets/31e4f8a9-b889-429b-a49b-da6ab7930f6a)
+
+
+
+
+
