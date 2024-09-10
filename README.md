@@ -34,6 +34,12 @@ pandas also contains functionality for time series analysis and analyzing text d
 <code> import pandas as pd </code>
 
 
+# Viewing and understanding DataFrames using pandas 
+
+![image](https://github.com/user-attachments/assets/54803e69-6631-4d07-92a3-9367569ec0bb)
+
+
+
 # Data visualization in pandas
 
 ![image](https://github.com/user-attachments/assets/55efaf5f-4f9f-41ab-ab44-29a78a71287e)
